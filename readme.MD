@@ -1,6 +1,6 @@
 # Snippet Api (Project 2)
 ## Live Deployment
-Live: YOUR_RENDER_URL # Replace this with your application's public URL
+Live: YOUR_RENDER_URL
 ## Running Locally
 ### Prerequisites
 You must have Node.js (version 18 or later) installed.
