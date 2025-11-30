@@ -65,7 +65,10 @@ could be a bit better. Everyting else is working.
 ## Timestamps for the video
 
 00:00 Intro
+
 00:26 Architecture of the app
+
 01:15 Demo with Postman
+
 05:00 Closure and next steps
 
