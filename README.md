@@ -57,3 +57,7 @@ Also the amount of time that documentating requires is been a bit of a surprise.
 It has been rewarding and also a bit frustrating process. 
 
 The next steps and improvements for the app is naturally the developing of the front end UI.
+
+## Written self assesment 
+I think this project was succesfull. I would give myself 18/20 points. The project reflection part of the documentation could be longer and more in depth. Also the documentation as a whole
+could be a bit better.
