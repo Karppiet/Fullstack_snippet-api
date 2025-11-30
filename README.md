@@ -14,14 +14,30 @@ Open VS Code terminal. The commands are the same on both platforms.
 ## API Endpoints
 GET /api/snippets # Retrieves a list of all snippets. Optional query parameters: ?lang=(language) &limit=(limit the search)
 
+<img width="1169" height="864" alt="Screenshot 2025-11-30 102959" src="https://github.com/user-attachments/assets/8fc8540b-f425-4cc1-a180-41012e005d44" />
+
+Query parameter lang used: 
+
+<img width="1209" height="648" alt="Screenshot 2025-11-30 103854" src="https://github.com/user-attachments/assets/e7ab34be-373d-448e-9324-53e08aded947" />
+
 GET /api/snippets/:id # Retrives the snippet by its ID. 
+
+<img width="1193" height="589" alt="Screenshot 2025-11-30 103039" src="https://github.com/user-attachments/assets/230636d7-ec3a-456d-bb2c-6ebee2aff23e" />
 
 POST /api/snippets # Creates a new snippet. Requires: title, language and code
 
+<img width="1170" height="931" alt="Screenshot 2025-11-30 103324" src="https://github.com/user-attachments/assets/9d6e41fc-3980-4805-8ad9-b2a95bb06d5a" />
+
 DELETE /api/snippets/:id # Deletes an existing lead by ID. 
+
+<img width="1172" height="822" alt="Screenshot 2025-11-30 103638" src="https://github.com/user-attachments/assets/6f29ef8c-f88e-4797-850c-a61cb2da5990" />
 
 PUT /api/snippets/:id # Update the content of the snippet by ID. Fields you can update:
 title, language, code and tags.
+
+<img width="1157" height="914" alt="Screenshot 2025-11-30 103541" src="https://github.com/user-attachments/assets/3f9c99ef-a6f6-44ce-bfdb-a1187579447b" />
+
+
 ## Technology Stack
 Node, Express, vanilla JS, JSON, MongoDB(database).
 ## Project Reflection 
